@@ -43,7 +43,7 @@ return  [
     'invalid_url'       => 'The link you try to access does not exist, try browsing the directory.',
     'slug_is_available' => 'The :baseurl name is available. Register it now.',
   ],
-  'name' => 'timegrid.io',
+  'name' => 'Palazzo G55',
   'nav'  => [
     'help'    => 'Help',
     'login'   => 'Login',

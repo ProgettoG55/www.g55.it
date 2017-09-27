@@ -14,5 +14,5 @@
         @endif
     </div>
     <!-- Default to the left -->
-    <strong>powered by <a href="https://timegrid.io">timegrid</a></strong>
+    <strong>powered by <a href="http://www.g55.it">PartannaG55</a></strong>
 </footer>

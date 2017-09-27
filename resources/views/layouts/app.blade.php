@@ -42,7 +42,7 @@
                 <!-- mini logo for sidebar mini 50x50 pixels -->
                 <span class="logo-mini"><b>t</b>g</span>
                 <!-- logo for regular state and mobile devices -->
-                <span class="logo-lg">time<b>grid</b></span>
+                <span class="logo-lg">Partanna<b>G55</b></span>
             </a>
 
             <!-- Header Navbar -->

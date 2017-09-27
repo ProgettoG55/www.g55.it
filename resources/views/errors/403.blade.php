@@ -42,7 +42,7 @@
             <div class="content">
                 <div class="title">403</div>
                 <div class="title">{{ trans('errors.403.description') }}</div>
-                <div class="brand"><a href="{{ url('/') }}">timegrid.io</a></div>
+                <div class="brand"><a href="{{ url('/') }}">PartannaG55</a></div>
             </div>
         </div>
     </body>

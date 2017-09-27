@@ -3,7 +3,7 @@
 @section('content')
 <div class="register-box">
     <div class="register-logo">
-        <a href="{{ url('/') }}">time<b>grid</b></a>
+        <a href="{{ url('/') }}">Partanna<b>G55</b></a>
     </div>
 
     <div class="register-box-body">

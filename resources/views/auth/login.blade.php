@@ -8,7 +8,7 @@
 @section('content')
 <div class="login-box">
     <div class="login-logo">
-        <a href="{{ url('/') }}">time<b>grid</b></a>
+        <a href="{{ url('/') }}">Partanna<b>G55</b></a>
     </div>
     <!-- /.login-logo -->
     <div class="login-box-body">
