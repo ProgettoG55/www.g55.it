@@ -36,6 +36,7 @@
         "laracasts/flash": "~2.0",
         "laravel/framework": "5.3.*",
         "laravel/socialite": "~2.0",
+        "paragonie/random_compat":"1.4.*",
         "laravelcollective/html": "~5.2",
         "mccool/laravel-auto-presenter": "^4.0",
         "patricktalmadge/bootstrapper": "~5",
