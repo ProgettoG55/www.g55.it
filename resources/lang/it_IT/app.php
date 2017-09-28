@@ -44,7 +44,7 @@ return  [
     'invalid_url'       => 'Pagina inesistente, prova a navigare la directory.',
     'slug_is_available' => 'Il nome :baseurl &egrave; disponibile. Registralo adesso.',
   ],
-  'name' => 'timegrid.io',
+  'name' => 'PartannaG55',
   'nav'  => [
     'help'    => 'Help',
     'login'   => 'Login',

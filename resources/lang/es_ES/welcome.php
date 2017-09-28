@@ -28,6 +28,6 @@ return [
       'login' => 'Iniciar Sesión',
     ],
     'description' => 'La agenda de citas para profesionales exitosos.',
-    'title'       => 'timegrid.io',
+    'title'       => 'PartannaG55',
   ],
 ];

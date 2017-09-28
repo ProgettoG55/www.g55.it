@@ -33,7 +33,7 @@ return  [
       ],
       'social_facebook' => [
         'label'       => 'La tua pagina Facebook',
-        'placeholder' => 'https://www.facebook.com/timegrid.io',
+        'placeholder' => 'https://www.facebook.com/coworkingpartanna',
       ],
       'timezone' => [
         'label' => 'TimeZone',
@@ -104,7 +104,7 @@ return  [
       ],
       'social_facebook' => [
         'label'       => 'La tua pagina Facebook',
-        'placeholder' => 'https://www.facebook.com/timegrid.io',
+        'placeholder' => 'https://www.facebook.com/coworkingpartanna',
       ],
       'timezone' => [
         'label' => 'TimeZone',

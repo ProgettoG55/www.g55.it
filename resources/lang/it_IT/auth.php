@@ -31,7 +31,7 @@ return  [
     'need_help'             => 'Serve aiuto?',
     'password'              => 'Password',
     'password_confirmation' => 'Ripeti password',
-    'title'                 => 'Ciao! Stiamo creando il tuo profilo in timegrid.io',
+    'title'                 => 'Ciao! Stiamo creando il tuo profilo in PartannaG55',
   ],
   'reset' => [
     'btn' => [

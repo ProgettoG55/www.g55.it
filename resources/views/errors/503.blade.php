@@ -51,7 +51,7 @@
                 <div class="title">Your life only gets better when you get better.</div>
                 <div class="subtitle">Be right back.</div>
                 <div class="subtitle">Ya volvemos.</div>
-                <div class="brand">timegrid.io</div>
+                <div class="brand">PartannaG55</div>
             </div>
         </div>
     </body>

@@ -28,6 +28,6 @@ return [
       'login' => 'Login',
     ],
     'description' => 'The booking app for successful service professionals.',
-    'title'       => 'timegrid.io',
+    'title'       => 'PartannaG55',
   ],
 ];

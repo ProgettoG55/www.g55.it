@@ -28,6 +28,6 @@ return [
       'login' => 'Ya tengo cuenta',
     ],
     'description' => 'Turnos por Internet para profesionales exitosos.',
-    'title'       => 'timegrid.io',
+    'title'       => 'PartannaG55',
   ],
 ];

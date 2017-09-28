@@ -21,7 +21,7 @@ return [
     ],
     'user'    => [
         'welcome' => [
-            'subject'              => 'Benvenuto in timegrid.io',
+            'subject'              => 'Benvenuto in PartannaG55',
             'hello-title'          => 'Ciao :userName',
             'hello-paragraph'      => 'TimeGrid aiuta imprenditori e clienti a trovare l\'orario ideale per un appuntamento.',
             'quickstart-title'     => 'Sei pronto a partire',

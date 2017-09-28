@@ -28,6 +28,6 @@ return [
       'login' => 'Connexion',
     ],
     'description' => 'L\'application de réservation pour les professionnels des services réussis.',
-    'title'       => 'timegrid.io',
+    'title'       => 'PartannaG55',
   ],
 ];

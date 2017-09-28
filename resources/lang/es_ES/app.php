@@ -42,7 +42,7 @@ return  [
     'invalid_url'       => 'El vínculo que intentas acceder no existe. Intenta examinando el directorio.',
     'slug_is_available' => 'El nombre :baseurl está disponible. Registralo ahora.',
   ],
-  'name' => 'timegrid.io',
+  'name' => 'PartannaG55',
   'nav'  => [
     'help'    => 'Ayuda',
     'login'   => 'Iniciar Sesión',

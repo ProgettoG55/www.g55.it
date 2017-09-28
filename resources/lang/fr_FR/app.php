@@ -43,7 +43,7 @@ return  [
     'invalid_url'       => 'Le lien que vous tentez d\'accéder n\'existe pas, essayez de naviguer dans le siteweb.',
     'slug_is_available' => 'Le :baseurl nom est disponible. Enregistrez-le maintenant.',
   ],
-  'name' => 'timegrid.io',
+  'name' => 'PartannaG55',
   'nav'  => [
     'help'    => 'Aide',
     'login'   => 'Connexion',
